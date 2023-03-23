@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="-2087373519">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="B2NGAA37C2501496" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 7 plus" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-2015391083">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1918047993">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1856439425">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Pixel_XL_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1545273021">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1516582885">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1419718178">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Pixel_6_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1419718147">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-725701051">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Pixel_6_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-595072166">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Pixel_6_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-352145571">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="414394270">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="587258709">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="Pixel_6_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="666572111">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="943547248">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="ES2B030583090109" value="120" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1532821155">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Pixel_6_API_33" value="120" />
+                  <entry key="Pixel_XL_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1639097988">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="ES2B030583090109" value="120" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1878111105">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="2051057132">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="0123456789ABCDEF" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="HMD Global&#10; Nokia 3.1" value="120" />
+                  <entry key="Pixel_5_API_33" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
